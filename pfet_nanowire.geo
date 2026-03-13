@@ -1,5 +1,5 @@
 // dimensions in nm 
-
+// the meshing needs the neuman boundaries, defining the domains, i have not done that yet
 D = 20; // diameter of the nanowire
 Lg = 150; // length of the channel
 L_ext = 36; // length of source and drain  

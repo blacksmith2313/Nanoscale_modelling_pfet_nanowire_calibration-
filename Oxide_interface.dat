@@ -1,0 +1,14 @@
+MaterialType oxide
+
+Permittivity 3.4
+Bandgap 2.8 
+
+ElectronDoSMass 0.00
+ElectronTunnelMass 0.2
+
+DeltaEc 1.65
+
+NetDoping 0.0
+
+ElectronLowFieldMobility 0.0
+HoleLowFieldMobility 0.0

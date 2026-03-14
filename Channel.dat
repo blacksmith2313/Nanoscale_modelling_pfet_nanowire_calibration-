@@ -1,0 +1,12 @@
+MaterialType semiconductor 
+
+Permittivity 16.2 
+BandGap 0.665
+
+ElectronDoSMass 0.56
+HoleDosMass 0.31
+
+NetDoping -3*1E23
+
+ElectronLowFieldMobility 0.39
+HoleLowFieldMobility 0.18
